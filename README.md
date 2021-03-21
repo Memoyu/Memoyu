@@ -2,7 +2,7 @@
 
 
 - ⚡ C#.
-- ✍️ [Blogger](http://Memoyu.cn)
+- ✍️ [Blogger](http://blog.Memoyu.cn)
 - 🏃 Runing / Cycling
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Memoyu&show_icons=true&theme=radical)
