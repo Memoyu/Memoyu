@@ -10,14 +10,6 @@
 </br>
 </br>
 </br>
-  
-<!--github 数据统计-->
-<div align="center">
-  <a href="https://github.com/Memoyu" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=memoyu&hide_title=true&hide_border=ture&layout=compact"  height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=memoyu&hide_title=true&hide_border=ture&layout=compact" height="150" alt="languages graph"  />
-   </a>
-</div>
 
 <!--技能图标-->
 <div align="center">
@@ -31,7 +23,14 @@
     <img align="center" alt="Raphael-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="Raphael-CSS" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
-
+  
+<!--github 数据统计-->
+<div align="center">
+  <a href="https://github.com/Memoyu" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=memoyu&hide_title=true&hide_border=ture&layout=compact"  height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=memoyu&hide_title=true&hide_border=ture&layout=compact" height="150" alt="languages graph"  />
+   </a>
+</div>
 
 <!--提交记录贪吃蛇-->
 <div align="center">
