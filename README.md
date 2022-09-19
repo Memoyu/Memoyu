@@ -1,10 +1,10 @@
-<h1 align="center"> Yoo！ 雷猴, 哦系 Memoyu 👋 </h1>
-<h3 align="center"> 哦系一只会Coding嘅马骝 </h3>
+<h1 align="center"> Yoo！ 雷猴, 我係 Memoyu 👋 </h1>
+<h3 align="center"> 我係一只会Coding嘅马骝 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memoyu&label=%20%20%20%20我记住你了%20%20%20%20&color=0e75b6&style=flat" alt="memoyu" />
 
-  - ⚡ 平时就系搞后端开发，识少少前端开发，最中意嘅就系C#啦！
-  - ✍️ 嗫，呢度就系哦嘅博客 [Memoyu'Blog](http://blog.Memoyu.com)
+  - ⚡ 平時主要就負責後端開發，但係前端都算OK，最鍾意就係C#啦，有同好可以加我交流下！
+  - ✍️ 嗫，呢度就係我嘅博客 [Memoyu'Blog](http://blog.Memoyu.com)
   - ✉️ 有咩事就 call me 👉 mmy6076@outlook.com
 
 </br>
