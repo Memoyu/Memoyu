@@ -6,15 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Jobs to update datas
+ generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: memoyu
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: push github-contribution-grid-snake.svg to the output branch
