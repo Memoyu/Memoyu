@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memoyu&label=%20%20%20%20我记住你了%20%20%20%20&color=0e75b6&style=flat" alt="memoyu" />
 
   - ⚡ 平時主要就負責後端開發，但係前端都算OK，最鍾意就係C#啦，有同好可以加我交流下！
-  - ✍️ 嗫，呢度就係我嘅博客 [Memoyu'Blog](http://blog.Memoyu.com)
+  - ✍️ 嗫，呢度就係我嘅博客 <a href="http://blog.Memoyu.com" target="_blank">memoyu's blog</a>
   - ✉️ 有咩事就 call me 👉 mmy6076@outlook.com
 
 </br>
